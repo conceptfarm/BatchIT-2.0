@@ -10,7 +10,7 @@ Copy the folders to your 3ds max root directory.
 3ds max file list can be sorted by name or by date.
 
 Scripts can have a short description and a flag for reminding the user whether to run the script with saving option or without.
-These setting are set at the beginning of the script file with commented strings:
+  These setting are set at the beginning of the script file with commented strings:
 ```
 --batchitInfo: Short script description
 --batchitSave: true | false
